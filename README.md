@@ -36,7 +36,7 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
 
-[Screenshot](../React%20Portfolio/src/assets/Screenshot%20(13).png)
+![Screenshot](../React%20Portfolio/src/assets/Screenshot%20(13).png)
 
 [Link to repo](https://github.com/David0864/React-Portfolio)
 
