@@ -40,4 +40,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 [Link to repo](https://github.com/David0864/React-Portfolio)
 
-[Link to deployed]()
+[Link to deployed](https://lustrous-pie-265c1e.netlify.app/)
