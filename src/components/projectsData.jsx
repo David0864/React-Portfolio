@@ -1,6 +1,6 @@
 import Note from "../assets/Screenshot (12).png"
 import Workday from "../assets/workday.png"
-import Quiz  from "../assets/quiz.png"
+import Ink  from "../assets/Screenshot (14).png"
 import Passgen from "../assets/passgen.png"
 import Calpro from "../assets/calpro.png"
 import Eventhorizon from "../assets/eventhorizon.png"
@@ -19,10 +19,10 @@ export const projectsData = [
     link: "https://github.com/David0864/Third-Party-APIs-Work-Day-Scheduler?tab=readme-ov-file"
   },
   {
-    title: "Web-APIs-Code-Quiz",
-    image: Quiz,
-    description: "A short code quiz made with html, css, and javascript.",
-    link: "https://github.com/David0864/Web-APIs-Code-Quiz"
+    title: "Ink & Insights",
+    image: Ink,
+    description: "A book blog made with react.",
+    link: "https://github.com/David0864/Ink-Insights-/tree/main"
   },
   {
     title: "JavaScript-Password-Generator",
