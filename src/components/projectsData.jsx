@@ -9,7 +9,7 @@ export const projectsData = [
   {
     title: "Express.js-Note-Taker",
     image: Note,
-    description: "A not taking site made with html, css, javascript, and express.js.",
+    description: "A note taking site made with html, css, javascript, and express.js.",
     link: "https://github.com/David0864/Express.js-Note-Taker"
   },
   {
