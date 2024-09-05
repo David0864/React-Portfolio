@@ -36,8 +36,8 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
 
-![Screenshot](./src/assets/Screenshot%20(13).png)
+![Screenshot](./src/assets/Screenshot%20(15).png)
 
 [Link to repo](https://github.com/David0864/React-Portfolio)
 
-[Link to deployed](https://lustrous-pie-265c1e.netlify.app/)
+[Link to deployed](https://davidm-portfolio.netlify.app/)
